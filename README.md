@@ -77,6 +77,9 @@ bash run.sh output_folder_path scene_name
 ```
 Our generated normals and color images are defined in orthographic views, so the reconstructed mesh is also in orthographic camera space. If you use MeshLab to view the meshes, you can click `Toggle Orthographic Camera` in `View` tab.
 
+```bash
+this is a comment
+```
 
 ## Common questions
 Q: The evelation and azimuth degrees of the generated views?
